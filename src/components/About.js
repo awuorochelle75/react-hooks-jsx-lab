@@ -6,7 +6,7 @@ function About() {
   <div id="about">
    <h2>About Me </h2>
    <p>I am based in Nairobi,Kenya.</p>
-   <img src={ image } alt="I made this" />
+   <img src={image} alt="I made this" />
     </div>
     );
 }
